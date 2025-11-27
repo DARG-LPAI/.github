@@ -1,4 +1,3 @@
-<span style="font-size: 24px;"> Discourse Analysis Research Group, Language Processing AI Lab</span>
 
 ## About Us
 
